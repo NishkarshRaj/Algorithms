@@ -32,3 +32,21 @@ Algorithms implemented in a platform and language independent manner.
 [3) General Counting Sort (better Time Complexity)](https://github.com/NishkarshRaj/Algorithms/blob/master/Sorting/Linear%20Sorting/CountingSortGeneral2.cpp)
 
 [4) Radix Sorting](https://github.com/NishkarshRaj/Algorithms/blob/master/Sorting/Linear%20Sorting/RadixSort.cpp)
+
+## Divide and Conquer
+
+[1) Strassen's Multiplication for 2x2 Matrix](https://github.com/NishkarshRaj/Algorithms/blob/master/Divide%20and%20Conquer/strassens.c)
+
+## Greedy Algorithms
+
+[1) Activity Selection](https://github.com/NishkarshRaj/Algorithms/blob/master/Greedy%20Approach/activityselection.c)
+
+[2) Fractional Knapsack](https://github.com/NishkarshRaj/Algorithms/blob/master/Greedy%20Approach/fractionalknapsack.c)
+
+[3) Interval Partitioning](https://github.com/NishkarshRaj/Algorithms/blob/master/Greedy%20Approach/intervalpartitioning.c)
+
+[4) Huffmann Coding](https://github.com/NishkarshRaj/Algorithms/blob/master/Greedy%20Approach/Huffmann.cpp)
+
+[5) Pre-emptive scheduling using Start Time](https://github.com/NishkarshRaj/Algorithms/blob/master/Greedy%20Approach/preemptivepriorityscheduling.c)
+
+[6) Pre-Emptive Scheduling with priority](https://github.com/NishkarshRaj/Algorithms/blob/master/Greedy%20Approach/PriorityPremptiveScheduling.cpp)
